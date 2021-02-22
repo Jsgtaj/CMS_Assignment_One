@@ -1,0 +1,22 @@
+body {
+  background-color: #85e0e0 !important;
+}
+.logo {
+  margin: auto;
+  margin-top: 1em;
+  height: 100px !important;
+  width: auto;
+}
+header {
+  padding-bottom: 20px !important;
+}
+.entry-title {
+  font-size: 4.6rem !important;
+  margin: auto !important;
+}
+h1 {
+  font-size: 5rem !important;
+}
+p {
+  font-size: 1.5rem !important;
+}
